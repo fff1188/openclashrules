@@ -1,0 +1,5 @@
+payload:
+  # > Tiktok
+  # - USER-AGENT,Tiktok*
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-SUFFIX,tiktok.com
